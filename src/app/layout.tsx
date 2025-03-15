@@ -25,6 +25,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        <header>
+          <h1>Next.js API fetch</h1>
+        </header>
         {children}
       </body>
     </html>

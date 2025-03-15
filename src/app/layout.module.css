@@ -1,0 +1,14 @@
+.fullPanel {
+  display: flex;
+}
+
+.sideMenu {
+  width: 20%;
+  min-width: 180px;
+  border-radius: 5px;
+}
+
+.mainPage {
+  padding: 0 1em;
+  flex: 1;
+}

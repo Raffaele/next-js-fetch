@@ -1,0 +1,17 @@
+.mainWrapper {
+  background-color: antiquewhite;
+  border-radius: 5px;
+  padding: 1em;
+}
+
+.mainNav {
+  display: flex;
+  flex-direction: column;
+}
+
+.navLink {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px gray solid;
+  text-decoration: none;
+}

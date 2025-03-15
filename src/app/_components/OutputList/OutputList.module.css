@@ -1,0 +1,15 @@
+.userList {
+  list-style: none;
+  padding-inline-start: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.userLine {
+  background-color:darkslategrey;
+  color: white;
+  width: 15em;
+  margin-bottom: 1em;
+  padding: 1em;
+  font-weight: bold;
+}

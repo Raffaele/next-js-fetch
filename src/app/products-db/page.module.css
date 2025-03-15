@@ -1,0 +1,15 @@
+.productList {
+  display: flex;
+  flex-direction: column;
+}
+
+.product {
+  margin-bottom: 1em;
+  padding: 1em;
+  background-color: darkblue;
+  color: white;
+  display: inline-block;
+  width: 15em;
+  border-radius: 5px;
+  font-weight: bold;
+}

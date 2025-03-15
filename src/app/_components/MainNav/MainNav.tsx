@@ -15,6 +15,9 @@ export const MainNav = () => {
         <Link href="/server-fetch" className={style.navLink}>
           Server fetch
         </Link>
+        <Link href="/products-db" className={style.navLink}>
+          Server action DB
+        </Link>
       </nav>
     </div>
   );

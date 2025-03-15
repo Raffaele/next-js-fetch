@@ -6,6 +6,9 @@ export default function Home() {
         In Next.js we can fetch data from server components or for client
         components
       </p>
+      <p>
+        We can also interact directly with our backend by using server actions
+      </p>
     </div>
   );
 }

@@ -1,6 +1,6 @@
-# NextJS API interactions
+# NextJS restful API
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project created as note for restful API.
 
 ## To fully understand these notes it's better to have a look first to
 

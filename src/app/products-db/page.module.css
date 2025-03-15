@@ -1,6 +1,14 @@
+.productPage {
+  display: flex;
+  justify-content: space-between;
+}
+
 .productList {
   display: flex;
   flex-direction: column;
+  overflow-y: scroll;
+  max-height: 30em;
+  flex: 1;
 }
 
 .product {

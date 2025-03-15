@@ -1,0 +1,15 @@
+.createForm{
+  display: flex;
+  flex-direction: column;
+}
+
+.inputLine {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: beige;
+  border-radius: 5px;
+  /* align-items: flex-start; */
+  width: 50%;
+}

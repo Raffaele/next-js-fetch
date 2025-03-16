@@ -1,6 +1,7 @@
 import { addProduct } from "@/prisma-db";
 import style from "./page.module.css";
 import { redirect } from "next/navigation";
+import { SubmitButton } from "./_components/SubmitButton";
 
 const CreateProductDbPage = async () => {
   const createProduct = async (formData: FormData) => {
@@ -27,7 +28,7 @@ const CreateProductDbPage = async () => {
         <textarea name="description"></textarea>
       </label>
       <div>
-        <button>Add product</button>
+        <SubmitButton />
       </div>
     </form>
   );

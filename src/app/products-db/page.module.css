@@ -21,3 +21,22 @@
   border-radius: 5px;
   font-weight: bold;
 }
+
+.navList {
+  display: flex;
+  flex-direction: column;
+}
+
+.navLink {
+  margin-bottom: 1em;
+}
+
+.cmdPanel {
+  padding: 0.5em 0;
+}
+
+.cmd {
+  display: inline-block;
+  margin-right: 0.5em;
+  color: white
+}

@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org) project created as note for restful API.
 
-## To fully understand these notes it's better to have a look first to
+## To fully understand these notes it's better to have a look first at
 
 1. [Next.js routing notes](https://github.com/Raffaele/next-js-routing-notes)
 2. [Next.js api notes](https://github.com/Raffaele/next-js-api-notes)
